@@ -20,6 +20,7 @@ public class ProjectoFinalClienteServidor {
         System.out.println("sadfasf");
         System.out.println("sadfasf");
         System.out.println("sadfasf");
+        System.out.println("test");
         // TODO code application logic here
     }
     
